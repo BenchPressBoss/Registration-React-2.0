@@ -1,4 +1,4 @@
-## How to start project
+## How to start the project
 
 #### Backend
 
